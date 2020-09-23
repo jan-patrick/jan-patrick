@@ -1,7 +1,6 @@
 ### Hey there, I am Jan 👋
 
-Practising Human Centered Design, interdisciplinary team work and
-technology for innovative consulting.
+Working on the intersection of Design, Technology, and Business. 
 
 <!--
 **jan-patrick/jan-patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
