@@ -2,6 +2,8 @@
 
 Working on the intersection of Design, Technology, and Business. 
 
+<a rel="me" style="display:none" href="https://mastodon.social/@Jan_Patrick">Mastodon</a>
+
 <!--
 **jan-patrick/jan-patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
